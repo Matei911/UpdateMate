@@ -3,6 +3,15 @@
 **UpdateMate** is an open-source, low-power ePaper tablet designed for tinkerers, developers, and DIY enthusiasts.  
 Built around the ESP32 microcontroller, it offers a customizable platform for displaying relevant, distraction-free information — from weather forecasts and calendar events to news, sensor data, and more.
 
+# Preview
+
+<table>
+  <tr>
+    <td align="center"><img src="assets/3d_tablet_view.png" width="300"/><br/>3D View of Tablet</td>
+    <td align="center"><img src="assets/3d_pcb_view width="300"/><br/>3D View of PCB</td>
+  </tr>
+</table>
+
 
 ## Features
 
@@ -19,3 +28,5 @@ Built around the ESP32 microcontroller, it offers a customizable platform for di
 - 📅 Personal productivity boards  
 - 📡 IoT project front-ends  
 - 🧪 Educational embedded systems kits
+
+
