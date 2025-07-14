@@ -7,8 +7,8 @@ Built around the ESP32 microcontroller, it offers a customizable platform for di
 
 <table>
   <tr>
-    <td align="center"><img src="assets/3d_tablet_view.png" width="300"/><br/>3D View of Tablet</td>
-    <td align="center"><img src="assets/3d_pcb_view width="300"/><br/>3D View of PCB</td>
+    <td align="center"><img src="assets/3d_tablet_view.png" width="400"/><br/>3D View of Tablet</td>
+    <td align="center"><img src="assets/3d_pcb_view.png" width="400"/><br/>3D View of PCB</td>
   </tr>
 </table>
 
