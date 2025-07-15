@@ -30,3 +30,42 @@ Built around the ESP32 microcontroller, it offers a customizable platform for di
 - 🧪 Educational embedded systems kits
 
 
+## BOM (Bill of materials)
+
+## Gallery
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/real_view_main_page.jpg" width="300"/><br/>
+      <sub>Main Page View</sub>
+    </td>
+    <td align="center">
+      <img src="assets/real_view_ebook_page.jpg" width="300"/><br/>
+      <sub>eBook Page View</sub>
+    </td>
+    <td align="center">
+      <img src="assets/real_view_stock_page.jpg" width="300"/><br/>
+      <sub>Stock Page View</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/real_view_news_page.jpg" width="300"/><br/>
+      <sub>News Page View</sub>
+    </td>
+    <td align="center">
+      <img src="assets/real_view_app_page.jpg" width="300"/><br/>
+      <sub>App Launcher View</sub>
+    </td>
+    <td align="center">
+      <img src="assets/real_view_pcb.jpg" width="300"/><br/>
+      <sub>PCB 3D Render</sub>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
