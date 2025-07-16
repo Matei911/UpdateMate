@@ -85,7 +85,20 @@ Pictures with the features already implemented on the tablet.
   </tr>
 </table>
 
+## Contents
 
+The repository is structured into two main sections:
+
+### `/hardware`
+- Autodesk Fusion 360 design files for the custom PCB  
+- 3D model files for the full tablet case, including STL/STEP formats for printing or editing  
+- Schematics and layout files for manufacturing the board
+
+### `/software`
+- Arduino sketches for individual components (e.g. display, sensors, Wi-Fi, etc.) for testing  
+- Full firmware implementation for the UpdateMate tablet, enabling all features shown in the gallery (weather, news, stocks, calendar, eBooks)
+
+**Enjoy tinkering!**
 
 
 
